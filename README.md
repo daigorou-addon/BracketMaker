@@ -67,3 +67,75 @@
 ## サポート
 
 このアプリが役に立ったら、[Buy Me a Coffee](https://buymeacoffee.com/daigorou) でご支援いただけると嬉しいです。
+
+---
+
+# BracketMaker
+
+A Windows desktop app for easily creating tournament brackets and league tables (round-robin charts), designed for printing and saving as PNG.
+
+I made this to save you from hand-drawing tournament brackets or fighting with misaligned cells in Excel. Just enter the participating teams, and the app automatically generates a cleanly ruled tournament bracket or league table that you can save as a PNG image or print right away.
+
+## Features
+
+- **Three tournament bracket layouts**: Horizontal, Horizontal Split (two-sided), and Vertical
+- **League tables (round-robin charts)** supported as well
+- **Seeds and byes**: just select two slots and turn them into a seed
+- Toggle the **champion box** and **note fields (Note 1 / Note 2)** on or off
+- **Text annotations** that can be placed anywhere for dates or memos (drag to move, switch between vertical and horizontal text)
+- **Save as PNG** in one click (layout designed for A4 printing)
+- Changing the number of participants later won't erase the team names you've already entered
+- Available in 日本語 / English / 한국어 / 简体中文 / 繁體中文 / Español
+
+## Screenshots
+
+### Tournament Bracket (Horizontal)
+
+![Tournament bracket - Horizontal](bracket-horizontal.png)
+
+### Tournament Bracket (Horizontal Split)
+
+Places the champion in the center and displays the bracket in a two-sided format.
+
+![Tournament bracket - Horizontal Split](bracket-horizontal-split.png)
+
+### Tournament Bracket (Vertical)
+
+![Tournament bracket - Vertical](bracket-vertical.png)
+
+### League Table (Round-Robin Chart)
+
+Scores can be shown or hidden, so you can hide the score fields if you'd like to write in the results by hand.
+
+![League table](league-table.png)
+
+### Setting Seeds and Byes
+
+Select two slots within the same match and click "Make selected 2 slots a seed" to set up a seed (bye).
+
+![Seed setup steps](seed-select.png)
+
+Once set, the slot without an opponent becomes an empty field with a "Remove seed" tag, and the match line becomes a single straight line.
+
+![Display after setting a seed](seed-result.png)
+
+## How to Use
+
+1. Enter the number of participants and click "Create Bracket"
+2. Enter team names (and notes, if needed) in each slot
+3. Choose a layout (Horizontal / Horizontal Split / Vertical)
+4. Add the champion display, notes, seeds, and text annotations as needed
+5. Click "Save PNG" to save the image (you can also print it as is)
+
+## Download
+
+- Download the latest version from [Releases](../../releases)
+- Also available on Booth
+
+## Requirements
+
+- Windows
+
+## Support
+
+If you find this app useful, I'd appreciate your support via [Buy Me a Coffee](https://buymeacoffee.com/daigorou).
