@@ -64,6 +64,10 @@
 
 - Windows
 
+## 作者
+
+作者の他のツール: [daigorou-Tools](https://daigorou-addon.github.io/daigorou-tools/)
+
 ## サポート
 
 このアプリが役に立ったら、[Buy Me a Coffee](https://buymeacoffee.com/daigorou) でご支援いただけると嬉しいです。
@@ -135,6 +139,10 @@ Once set, the slot without an opponent becomes an empty field with a "Remove see
 ## Requirements
 
 - Windows
+
+## Author
+
+Other tools by the author: [daigorou-Tools](https://daigorou-addon.github.io/daigorou-tools/)
 
 ## Support
 
